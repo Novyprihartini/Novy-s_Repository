@@ -17,7 +17,7 @@
 </header>
 	
 <div class="navbar">
-   <a href="index">HOME</a>
+   <a href="index">Halaman Utama</a>
    <a href="about.html">ABOUT</a>
    <a href="member.html">MEMBER</a>
    <div class="dropdown">
