@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Brow and Beauty by Chika | welcome</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<header>
+	<div class="container">	
+	     <div id="branding">
+	     	<img src="gambar/logobrow.jpeg">
+		     <h1 class="brow">Brow and Beauty by Chika</h1>
+		 </div>
+		 	<div>
+		 	<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:200px;height:100px;"src="https://www.clocklink.com/html5embed.php?clock=003&timezone=ICT&color=red&size=200&Title=&Message=&Target=&From=2019,1,1,0,0,0&Color=red&DayName1=Monday&OpenHr1=8&OpenMin1=00&OpenPeriod1=am&CloseHr1=5&CloseMin1=00&ClosePeriod1=pm&ClosedAllDay1=0&OpenByAppt1=0&DayName2=Tuesday&OpenHr2=8&OpenMin2=00&OpenPeriod2=am&CloseHr2=5&CloseMin2=00&ClosePeriod2=pm&ClosedAllDay2=0&OpenByAppt2=0&DayName3=Wednesday&OpenHr3=8&OpenMin3=00&OpenPeriod3=am&CloseHr3=5&CloseMin3=00&ClosePeriod3=pm&ClosedAllDay3=0&OpenByAppt3=0&DayName4=Thursday&OpenHr4=8&OpenMin4=00&OpenPeriod4=am&CloseHr4=5&CloseMin4=00&ClosePeriod4=pm&ClosedAllDay4=0&OpenByAppt4=0&DayName5=Friday&OpenHr5=8&OpenMin5=00&OpenPeriod5=am&CloseHr5=5&CloseMin5=00&ClosePeriod5=pm&ClosedAllDay5=0&OpenByAppt5=0&DayName6=Saturday&OpenHr6=8&OpenMin6=00&OpenPeriod6=am&CloseHr6=5&CloseMin6=00&ClosePeriod6=pm&ClosedAllDay6=0&OpenByAppt6=0&DayName0=Sunday&OpenHr0=8&OpenMin0=00&OpenPeriod0=am&CloseHr0=5&CloseMin0=00&ClosePeriod0=pm&ClosedAllDay0=0&OpenByAppt0=0"></iframe>
+		    </div>
+</header>
+	
+<div class="navbar">
+   <a href="index">HOME</a>
+   <a href="about.html">ABOUT</a>
+   <a href="member.html">MEMBER</a>
+   <div class="dropdown">
+     <button class="dropbtn">OUR TREATMENTS
+       <i class="fa fa-caret-down"></i>
+     </button>
+     <div class="dropdown-content">
+     	<a href="natural.html">Natural Signature Facial</a>
+     	<a href="oxygen.html">Oxygen jet peel facial</a>
+     	<a href="glowing.html">Glowing chemical peeling</a>
+     	<a href="mesoterapi.html">Mesotherapy non needle</a>
+     	<a href="microdermabrasion.html">Microdermabrasion</a>
+     	<a href="dermaroller.html">Dermaroller</a>
+     	<a href="dermapen.html">Dermapen</a>
+     	<a href="crystal.html">Crystal jade & natural stone facial</a>
+     	<a href="radiofrequency.html">Radiofrequency</a>
+	    <a href="sulamalis.html">Sulam alis</a>
+	    <a href="eyelash.html">Eyelash extension</a>
+     </div>
+    </div>
+    <div class="navbar">
+      <a href="review.html">REVIEW PRODUCT</a>
+
+    </div>
+   </div>
+
+<div class="runningtext">
+<marquee behavior="scrolling" scrollamount="3" onmouseover="this.stop();" onmouseout="this.start();" direction="left">
+  Selamat Datang di Brow and Beauty by Chika
+</marquee>
+</div>
+
+
+<section id="showcase">
+	<div class="container">
+		<h1>Facial Treatment. Salon Kecantikan. Spa Kesehatan</h1>
+			<p>Melayani segala keluhan dalam permasalahan wajah seperti bejerawat, komedo, flek hitam, kulit kusam, bermasalah di area mata, alis, dan sebagainya dengan memberikan layanan facial treatment, spa kesehatan. Dan juga dilengkapi dengan review produk yang aman, nyaman, dan dalam pengawasan dokter terpercaya</p>
+	</div>	
+	<div id="sidebar">
+	<div class="widget">
+	<img src="gambar/gif.gif" class="gambariklan">
+	</div>
+	<div class="widget">
+	<h1 class="judulwidget">Highlight</h1>
+	<ul>
+		<li> <a href="https://www.liputan6.com/lifestyle/read/3530027/17-cara-menghilangkan-jerawat-secara-alami-efektif-dan-tanpa-efek-samping-bagi-wanita-dan-pria">CARA AMPUH MENGHILANGKAN JERAWAT</a></li>
+		<li> <a href="https://www.google.com/maps/place/Brow+And+beauty+By+Chika/@-6.3466559,106.2653205,15z/data=!4m5!3m4!1s0x0:0x62bb0a60110b6f47!8m2!3d-6.3466559!4d106.2653205">Visit to Brow and Beauty by Chika</a></li>
+		<li> <a href="https://www.suara.com/health/2017/12/25/201500/cara-memutihkan-wajah-secara-alami-dalam-waktu-3-hari">TIPS MEMUTIHKAN WAJAH</a></li>
+	</ul>
+</div>
+</div>
+</section>
+
+
+	</ul>
+</section>
+
+<section id=konsultasi>
+	
+</section>
+
+<section id="newsletter">
+	<div class="container">
+		<h1> ask anything </h1>
+		<form>
+			<input type="search" placeholder="search...">
+			<button class="buttonsubs">Search</button>
+		</form>
+	</div>
+</section>
+
+
+<section id="boxes">
+	<div class="container">
+			
+		</div>
+		<div class="moni">
+			<img src="gambar/testimoni1.jpg"><br>
+			
+			
+		</div>
+
+		<div class="moni">
+			<img src="gambar/testi.jpg"><br>
+			
+		</div>
+
+		<div class="moni">
+			<img src="gambar/testimoni.jpg"><br>
+			
+			
+		</div>
+	</div>
+</section>
+
+<section id="boxes">
+	<div class="container">
+		<div class="box">
+			<img src="gambar/Instagram.jpg"><br>
+			<a href="https://deskgram.cc/browbeautybychika">browbeautybychika</a>
+			
+		</div>
+		<div class="box">
+			<img src="gambar/twitter.jpg"><br>
+			<a href="https://twitter.com/keerthishrathah/status/876489678093942784">Brow and Beauty by Chika</a>
+			
+		</div>
+		<div class="box">
+			<img src="gambar/facebook.jpg"><br>
+			<a href="https://www.facebook.com/pages/Brow-and-Beauty-By-Chika/474708106300818">Brow and Beauty by Chika</a>
+			
+		</div>
+	</div>
+</section>
+
+<footer>
+	<p>
+		Brow and Beauty byChika | Facial Treatment (pengawasan Dokter) | Komp.Pemda PDAM | Konsultasi 087772914970
+	</p>
+</footer>
+
+</body>
+</html>
